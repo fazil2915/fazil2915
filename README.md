@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fazil2915
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning node.js,. Net
+- 🌱 I’m currently learning node.js,react.js
 - 💞️ I’m looking to develope stunning projects for your needs.
 - 📫 you can contact me at fazil9846@gmail.com
 
