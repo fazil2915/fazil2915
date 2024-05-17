@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fazil2915
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning node.js,react.js
-- 💞️ I’m looking to develope stunning projects for your needs.
+- 🌱 I’m currently learning nextJs
+- 💞️ I’m looking to be a part of stunning projects.
 - 📫 you can contact me at fazil9846@gmail.com
 
 <!---
