@@ -1,7 +1,7 @@
 <p align="center"  width="52" height="40">👋 Hi, I’m FAZIL RAHMAN<br>Full Stack Developer<br>📫 Reachout me at fazil9846@gmail.com</p>
 
 ###
-
+##### Technical stuff !!
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
