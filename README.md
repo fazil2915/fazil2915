@@ -1,4 +1,4 @@
-<p align="center"  width="52" height="40">👋 Hi, I’m FAZIL RAHMAN<br>Full Stack Developer<br>📫 Reachout me at <a href="mailto:fazilrah9846@gmail.com">fazilrah9846@gmail.com</a></p>
+<p align="center"  width="52" height="40">👋 Hi, I’m FAZIL RAHMAN<br>Software Developer<br>📫 Reachout me at <a href="mailto:fazilrah9846@gmail.com">fazilrah9846@gmail.com</a></p>
 
 ###
 ##### Technical stuff !!
