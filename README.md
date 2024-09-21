@@ -8,6 +8,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://github.com/user-attachments/assets/68e96861-c6e3-4292-8913-9900ffa573e8" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
    <img src="https://github.com/user-attachments/assets/debd3e5f-7b52-4a95-aa22-734aaae67796" height="40" alt="Postgresql"  />
