@@ -1,7 +1,7 @@
 <p align="center"  width="52" height="40">👋 Hi, I’m FAZIL RAHMAN<br>Software Developer<br>📫 Reachout me at <a href="mailto:fazilrah9846@gmail.com">fazilrah9846@gmail.com</a></p>
 
-###
-##### Technical stuff !!
+##
+#### Technical stuff !!
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -29,8 +29,7 @@
 
 ###
 
-###
-
+#### connect me :
 <div align="left">
   <a href="https://www.linkedin.com/in/fazil-rahman/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
