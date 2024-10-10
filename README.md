@@ -11,13 +11,13 @@
   <img src="https://github.com/user-attachments/assets/68e96861-c6e3-4292-8913-9900ffa573e8" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-   <img src="https://github.com/user-attachments/assets/debd3e5f-7b52-4a95-aa22-734aaae67796" height="40" alt="Postgresql"  />
+  <img src="https://github.com/user-attachments/assets/debd3e5f-7b52-4a95-aa22-734aaae67796" height="40" alt="Postgresql"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png" height="40" alt="docker"/>
 </div>
 
 ###
